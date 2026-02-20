@@ -21,3 +21,4 @@ Use this method to create your documentations throughout the semester.
 8. Using LemonTree (from within SmartGit), solve the merge issue by choosing one of the modifications (doesn't matter which). Commit and push the results. Merge the PR.
 
  
+Ez egy új sor
